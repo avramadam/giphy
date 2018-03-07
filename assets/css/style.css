@@ -23,13 +23,18 @@
 .divImg {
   float:left;
   display: inline;
-  margin-bottom: 15px;
+  padding-bottom: 15px;
+  padding-top: 15px;
   margin: 0 auto;
 }
 
 body {
   font-family: 'Krona One', sans-serif;
   background-color: lightgrey;
+}
+
+.anImg {
+  margin-bottom: 15px;
 }
 
 
